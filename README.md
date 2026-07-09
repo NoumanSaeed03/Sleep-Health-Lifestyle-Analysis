@@ -128,26 +128,6 @@ The project includes:
 
 ---
 
-## 📁 Project Structure
-
-```
-Sleep-Health-Lifestyle-Analysis/
-│
-├── dataset/
-│   └── Sleep_health_and_lifestyle_dataset.csv
-│
-├── notebook/
-│   └── Sleep_Health_Analysis.ipynb
-│
-├── images/
-│   ├── elbow_method.png
-│   └── pca_clusters.png
-│
-├── README.md
-├── requirements.txt
-└── LICENSE
-```
-
 ---
 
 ## ▶️ Installation
