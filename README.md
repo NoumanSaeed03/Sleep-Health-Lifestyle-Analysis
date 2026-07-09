@@ -179,10 +179,6 @@ jupyter
 
 **Nouman Saeed**
 
-BS Computer Science Student
-
-Machine Learning Enthusiast
-
 ---
 
 ## ⭐ If you found this project helpful, consider giving it a star.
